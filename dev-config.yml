@@ -1,2 +1,3 @@
 test: 
   config: 111
+  version: 1.0
